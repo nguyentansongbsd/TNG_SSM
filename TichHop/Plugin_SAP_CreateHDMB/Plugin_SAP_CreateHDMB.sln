@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin_SAP_CreateHDMB", "Plugin_SAP_CreateHDMB\Plugin_SAP_CreateHDMB.csproj", "{834FC6D1-6DEA-46B7-A1CD-5F308311EA05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834FC6D1-6DEA-46B7-A1CD-5F308311EA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834FC6D1-6DEA-46B7-A1CD-5F308311EA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834FC6D1-6DEA-46B7-A1CD-5F308311EA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834FC6D1-6DEA-46B7-A1CD-5F308311EA05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0065DA6F-75E7-44DE-A65F-3218CE82CD60}
+	EndGlobalSection
+EndGlobal
